@@ -5,6 +5,8 @@ current homepage. This module allows for the selection of content
 types available for swapping. It will unpublish the current homepage,
 publish the new homepage and set it as the default front page.
 
+Module currently under active development and is a MVP current client will be released to Drupal.org upon second revision of the backend interface. 
+
 
 REQUIREMENTS
 ------------
